@@ -80,7 +80,7 @@ The SVM classifier successfully classifies cat and dog images based on extracted
 
 ## Author
 
-MASETTY ABHINAY
+VALISHETTI SIDDHARDHA
 
 B.Tech – Artificial Intelligence and Machine Learning
 
